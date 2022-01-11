@@ -2,7 +2,7 @@
 
 I'm passionate about combining human-centered design and the right tech to achieve greater productivity. 
 
-Right now, I'm an senior software developer working in the financial services industry. I built .net web apps to help others make better data driven investment decisions. My latest projects are focusing on designing Dev team workflows and automation pipelines.
+Right now, I'm a senior software developer working in the financial services industry. I built .net web apps to help others make better data driven investment decisions. My latest projects are focusing on designing Dev team workflows and automation pipelines.
 
 - 🌱 I’m currently learning game developments and reading [**Introduction to Algorithms**](https://mitpress.mit.edu/books/introduction-algorithms-third-edition)
 - 👯 I’m looking to collaborate on productivity boosting tools
